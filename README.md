@@ -24,6 +24,12 @@ Animestar é uma plataforma dedicada aos amantes de anime. O site permite que os
 
 ![image](https://github.com/user-attachments/assets/c178e624-2f91-47c5-8848-2d2124d5dfaf)
 
+# Autor
+Miguel de Sá Silva
+
+Contato Profissional: 
+
+www.linkedin.com/in/miguel-de-sá-silva-1bb59a28b
 
 
 
